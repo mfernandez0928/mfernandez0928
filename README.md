@@ -1,7 +1,15 @@
-<h2 align="center">👋 Hi, I'm Mark Ronaldo Fernandez II</h2>
+<h2 align="center">👋 Hi, I'm Mark Fernandez</h2>
 <p align="center">
-  <strong>Full-Stack Developer in progress 🚀 | Passionate about building web solutions 💻</strong>
+  <strong>💻 Junior Full-Stack Developer | ⚡ Passionate Learner | 🌱 Based in Finland </strong>
 </p>
+
+---
+
+### 🧠 About Me
+🎓 Graduate of KodeGo Full-Stack Web Development Bootcamp  
+💡 I love building clean, functional, and creative web applications  
+🚀 Currently learning **Next.js** and **Frappe Framework**  
+🛠 Exploring ways to combine design & code for smooth UX  
 
 ---
 
