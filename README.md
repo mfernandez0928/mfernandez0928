@@ -1,37 +1,49 @@
-# 👋 Hi, I'm Mark Ronaldo Fernandez II
+<h1 align="center">👋 Hey, I'm Mark Ronaldo Fernandez II</h1>
 
-🚀 **Aspiring Full-Stack Web Developer** passionate about crafting responsive and dynamic web applications.  
-Currently growing my skills in **React, Node.js, Express, MySQL**, and learning tools like the **Frappe Framework**.
+<p align="center">
+  💻 Junior Full-Stack Developer | ⚡ Passionate Learner | 🌱 Based in Finland  
+</p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 Graduate of Computer Science and Full-Stack Web Development Bootcamp (KodeGo)
-- 💻 Background in IT, data management, and client coordination  
-- 🌱 Constantly learning new technologies and modern development tools  
-- 💬 Open to collaboration, mentoring, and continuous learning  
+🎓 Graduate of KodeGo Full-Stack Web Development Bootcamp  
+💡 I love building clean, functional, and creative web applications  
+🚀 Currently learning **Next.js** and **Frappe Framework**  
+🛠 Exploring ways to combine design & code for smooth UX  
 
 ---
 
-### 🛠️ Tech Stack
-**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
-**Backend:** Node.js, Express.js, PHP, MySQL, REST APIs, Frappe  
-**Tools:** Git, GitHub, VS Code, Postman, Netlify/Vercel  
+### 💼 Tech Stack
+#### 🔹 Frontend
+React · HTML5 · CSS3 · JavaScript (ES6+) · TailwindCSS  
+#### 🔹 Backend
+Node.js · Express.js · MySQL · PHP · REST APIs  
+#### 🔹 Tools
+Git · GitHub · VS Code · Postman · Netlify · Vercel  
 
 ---
 
-### 📌 Featured Projects
-- 🎨 [Portfolio Website](https://github.com/mfernandez0928/updatedportfolio) — My personal web developer portfolio  
-- 🕒 Jem Time Attendance App — Full-stack capstone project (React + Express + MySQL)  
-- 🧾 Jem Corp Website — Responsive front-end project for a startup  
+### 🔥 Featured Projects
+⭐ **[Portfolio Website](https://github.com/mfernandez0928/updatedportfolio)** — My personal developer portfolio  
+🕒 **Jem Time Attendance** — Full-stack time tracking app built with React, Express & MySQL  
+🌐 **Jem Corp Website** — Frontend startup site with responsive UI  
 
 ---
 
-### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mfernandez0928)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-fernandez-a3aab3115/)
-[![Email](https://img.shields.io/badge/Email-mfernandez0928%40gmail.com-red?style=flat)](mailto:mfernandez0928@gmail.com)
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mark-fernandez-a3aab3115/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mfernandez0928@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mfernandez0928">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-✨ *"Learning never stops — every line of code is progress."*
+<p align="center">✨ “Every line of code is a step toward progress.” ✨</p>
