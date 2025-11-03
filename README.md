@@ -132,7 +132,7 @@ I'm always open to collaborations, feedback, and opportunities to grow as a deve
 - **📧 Email:** [mrfernandezdev@gmail.com](mailto:mrfernandezdev@gmail.com)
 - **💼 LinkedIn:** [Mark Ronaldo Fernandez](https://www.linkedin.com/in/mark-ronaldo-fernandez-a3aab3115/)
 - **🐙 GitHub:** [@mfernandez0928](https://github.com/mfernandez0928)
-- **📱 Phone:** +358 (041) 352-0621
+- **📱 Phone:** +358 (041) 325-0621
 
 ---
 
