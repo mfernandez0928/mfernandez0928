@@ -55,64 +55,6 @@ I'm a **junior full-stack developer** passionate about creating clean, user-frie
 
 ---
 
-## 🎯 Featured Projects
-
-### 1. 📁 **My Portfolio Website**
-> A modern, responsive portfolio showcasing my skills and projects.
-
-- **Tech:** React, Tailwind CSS, Vite
-- **Features:** Smooth animations, responsive design, contact form
-- **Live Demo:** [View Portfolio](https://mfernandez0928.github.io/updatedportfolio)
-- **Repository:** [GitHub](https://github.com/mfernandez0928/updatedportfolio)
-
----
-
-### 2. ⏱️ **Jem Time Attendance App** (Capstone Project)
-> Full-stack attendance tracking application for Team Jem.
-
-- **Tech:** React, Node.js, Express, MySQL
-- **Features:** User authentication, real-time attendance tracking, admin dashboard
-- **Repository:** [GitHub](https://github.com/mfernandez0928/Capstone)
-
----
-
-### 3. 🏥 **Clinic Care System**
-> Responsive front-end for a clinic management system.
-
-- **Tech:** React, CSS, Responsive Design
-- **Live Demo:** [View Site](https://mfernandez0928.github.io/cliniccaresystem)
-- **Repository:** [GitHub](https://github.com/mfernandez0928/cliniccaresystem.github.io)
-
----
-
-### 4. 🧮 **Funny Calculator**
-> A humorous calculator with a twist! Sometimes wrong, always entertaining. 😄
-
-- **Tech:** HTML5, CSS3, JavaScript
-- **Features:** Interactive buttons, quirky logic
-- **Live Demo:** [Try It](https://mfernandez0928.github.io/funny-calculator)
-- **Repository:** [GitHub](https://github.com/mfernandez0928/funny-calculator)
-
----
-
-### 5. 🧮 **My E-Calculator**
-> A functional calculator with a clean, user-friendly interface.
-
-- **Tech:** HTML5, CSS3, JavaScript
-- **Live Demo:** [Try It](https://mfernandez0928.github.io/myecalculator)
-- **Repository:** [GitHub](https://github.com/mfernandez0928/myecalculator)
-
----
-
-### 6. 📝 **PHP CRUD Login Form**
-> Backend CRUD operations with user authentication system.
-
-- **Tech:** PHP, MySQL, HTML, CSS
-- **Features:** User registration, login, CRUD operations
-- **Repository:** [GitHub](https://github.com/mfernandez0928/phpcrud-loginform)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -137,6 +79,8 @@ I'm always open to collaborations, feedback, and opportunities to grow as a deve
 ---
 
 ## 🎓 Education
+
+- **Computer Science Graduate
 
 - **Full-Stack Web Development Bootcamp** — KodeGo (2024)
   - Front-end Development: React, HTML, CSS, JavaScript
