@@ -80,7 +80,7 @@ I'm always open to collaborations, feedback, and opportunities to grow as a deve
 
 ## 🎓 Education
 
-- **Computer Science Graduate
+- **Computer Science Graduate**
 
 - **Full-Stack Web Development Bootcamp** — KodeGo (2024)
   - Front-end Development: React, HTML, CSS, JavaScript
