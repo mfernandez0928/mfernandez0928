@@ -106,6 +106,4 @@ Whether you have a project in mind, a question about web development, or just wa
 
 **⭐ If you find my projects useful, please consider giving them a star! ⭐**
 
-Made with ❤️ by Mark Fernandez
-
 </div>
